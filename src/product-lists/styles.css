@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "bold";
+  src: url("/assets/fonts/static/RedHatText-Bold.ttf");
+}
+@font-face {
+  font-family: "semiBold";
+  src: url("/assets/fonts/static/RedHatText/SemiBold.ttf");
+}
+@font-face {
+  font-family: "regular";
+  src: url("/assets/fonts/static/RedHatText/Regular.ttf");
+}
+
+body {
+  width: 100%;
+  background-color: hsl(20, 50%, 98%);
+}
+
+/* Rose 50: hsl(20, 50%, 98%)
+- Rose 100: hsl(13, 31%, 94%)
+- Rose 300: hsl(14, 25%, 72%)
+- Rose 400: hsl(7, 20%, 60%)
+- Rose 500: hsl(12, 20%, 44%)
+- Rose 900: hsl(14, 65%, 9%) */
